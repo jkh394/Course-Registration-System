@@ -1,0 +1,30 @@
+Course_Name,Course_Id,Maximum_Students,Current_Students,List_Of_Names,Course_Instructor,Course_Section_Number,Course_Location
+PAC II,CSCI-GA.1144,7,0,NULL,Mohamed Zahran,1,CIWW 312
+Fundamental Algorithms,CSCI-GA.1170,4,0,NULL,Joel Spencer,1,CIWW 109
+Programming Languages,CSCI-GA.2110,7,0,NULL,Benjamin Goldberg,1,CIWW 109
+Compiler Construction,CSCI-GA.2130,3,0,NULL,Eva Rose,1,CIWW 202
+Open Source Tools,CSCI-GA.2246,7,0,NULL,Jeffrey Korn,1,60 Fifth Ave C12
+Operating Systems,CSCI-GA.2250,5,0,NULL,Hubertus Franke,1,CIWW 109
+Database Systems,CSCI-GA.2433,4,0,NULL,Zvi Kedem,1,CIWW 101
+Software Engineering,CSCI-GA.2440,7,0,NULL,Jean Claude Franchitti,1,CIWW 312
+Web Search Engines,CSCI-GA.2580,6,0,NULL,Ernest Davis,1,CIWW 102
+Special Topic: Big Data Science,CSCI-GA.3033,3,0,NULL,Anasse Bari,1,60 Fifth Ave C10
+Special Topic: Social Networks,CSCI-GA.3033,2,0,NULL,Bhubaneswar Mishra,2,CIWW 201
+Special Topic: Cloud Computing,CSCI-GA.3033,4,0,NULL,Jean Claude Franchitti,10,CIWW 102
+Special Topic: DevOps,CSCI-GA.3033,1,0,NULL,John Rofrano,13,CIWW 317
+Intro To Computer Programming,CSCI-UA.0002,4,0,NULL,Joseph Versoza,2,CIWW 312
+Intro To Computer Programming,CSCI-UA.0002,7,0,NULL,Craig Kapp,3,CIWW 109
+Intro to Web Design & Computer Principles,CSCI-UA.0004,6,0,NULL,Joshua Clayton,1,CIWW 102
+Intro to Web Design & Computer Principles,CSCI-UA.0004,4,0,NULL,Amos Bloomberg,4,60 Fifth Ave 150
+Database Design And Web Implementation,CSCI-UA.0060,5,0,NULL,Deena Engel,1,60 Fifth Ave 110
+Web Development And Programming,CSCI-UA.0061,3,0,NULL,Nathan Hull,1,CIWW 512
+Intro To Computer Science,CSCI-UA.0101,4,0,NULL,Suzanne McIntosh,1,60 Fifth Ave 110
+Intro To Computer Science,CSCI-UA.0101,6,0,NULL,Evan Korth,2,CIWW 102
+Data Structures,CSCI-UA.0102,7,0,NULL,Anasse Bari,5,60 Fifth Ave 110
+Computer Systems Organization,CSCI-UA.0201,7,0,NULL,Randy Shepherd,1,60 Fifth Ave 150
+Basic Algorithms,CSCI-UA.0310,5,0,NULL,Victor Shoup,1,CIWW 109
+Numerical Computing,CSCI-UA.0421,4,0,NULL,Michael Overton,1,60 Fifth Ave C12
+Theory Of Computation,CSCI-UA.0453,5,0,NULL,Guy Kindler,1,CIWW 201
+Object Oriented Programming,CSCI-UA.0470,3,0,NULL,Thomas Wies,1,CIWW 102
+Intro To Machine Learning,CSCI-UA.0473,4,0,NULL,Kyunghyun Cho,1,60 Fifth Ave C12
+Introduction to Robotics,CSCI-UA.0465,2,0,NULL,Chee Yap,1,CIWW 312
